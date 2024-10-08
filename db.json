@@ -238,70 +238,70 @@
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
-          "name": "file 1",
-          "urlFile": "",
+          "nameFile": " الجلسة الاولى",
+          "urlFile": "https://drive.google.com/file/d/1IO5E-O7TUYc3GAC9octPhyMNvW-FFp2k/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": " الجلسة الثانية",
+          "urlFile": "https://drive.google.com/file/d/13sVW_42QRjPGGP1t44gc6RQQIqF7SeXc/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة الثالثة",
+          "urlFile": "https://drive.google.com/file/d/1F6yMfhOK996T6mXfvU-HsybshZUR2Oyg/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة الرابعه",
+          "urlFile": "https://drive.google.com/file/d/1sUqCdiebA-PYkl4UjOJl9EtUlsm_cETS/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة الخامسة",
+          "urlFile": "https://drive.google.com/file/d/1Dg-p31QJZWNJb60J1PVqcJqE0Cf1T0nR/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة السادسة",
+          "urlFile": "https://drive.google.com/file/d/19utzWAMy9ZU3o4aE81qigZGQdYY-S78p/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة السابعه",
+          "urlFile": "https://drive.google.com/file/d/14ZsCudykq_rqK3wbnGR34ZkPUrrhCs7B/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة الثامنة",
+          "urlFile": "https://drive.google.com/file/d/1Pgw7bTkiwKZddmuji7NaGkYSthWRWhvh/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة التاسعه",
+          "urlFile": "https://drive.google.com/file/d/1x3aCA2xqkZ3AUneRN_6DrSCc6LIsKfLb/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "الجلسة العاشرة",
+          "urlFile": "https://drive.google.com/file/d/1cpaINc9LXDabFEKtM9shI56PCKSaTYzT/view?usp=drive_link",
           "countPage": 22,
           "fileClass": "عملي"
         },
         {
-          "name": "file 2",
-          "urlFile": "",
+          "nameFile": "المقرر",
+          "urlFile": "https://drive.google.com/file/d/1xKco4AZzVAAY4xA66VS-2HFYA0aesM6p/view?usp=drive_link",
           "countPage": 22,
-          "fileClass": "عملي"
+          "fileClass": "نظري "
         }
 
       ],
@@ -327,7 +327,7 @@
     {
       "id": 2,
       "nameAr": " 2تحليل",
-      "nameEn": "analyses",
+      "nameEn": "analyses 2",
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
@@ -363,56 +363,56 @@
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
-          "name": "جلسة  1",
+          "nameFile": "جلسة  1",
           "urlFile": "https://drive.google.com/file/d/18P5SmFlEzMW95QtGVgtMLCCuM5Q98dG0/view?usp=drive_link",
           "countPage": 27,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة  2",
+          "nameFile": "جلسة  2",
           "urlFile": "https://drive.google.com/file/d/1g2dNROGeix2kW1oUblASotgyznWu05wa/view?usp=drive_link",
           "countPage": 17,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة 3",
+          "nameFile": "جلسة 3",
           "urlFile": "https://drive.google.com/file/d/1cXYm-I9J_7SuKf7fveq53-7Aquuo0S5x/view?usp=drive_link",
           "countPage": 8,
           "fileClass": "عملي"
         } 
         ,
         {
-          "name": "جلسة 4",
+          "nameFile": "جلسة 4",
           "urlFile": "https://drive.google.com/file/d/1342_N5jwtygZkX7EKLgU4cPnPeZjN_e9/view?usp=drive_link",
           "countPage": 12,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة 5-6",
+          "nameFile": "جلسة 5-6",
           "urlFile": "https://drive.google.com/file/d/1F7xXhYAU7QT52_8cC1ZkhWkZhaBAcb86/view?usp=drive_link",
           "countPage": 27,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة 7",
+          "nameFile": "جلسة 7",
           "urlFile": "https://drive.google.com/file/d/1dz2OqzDjVO7Q72NVHeN0bjc6Hd7eHobP/view?usp=drive_link",
           "countPage": 24,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة 8",
+          "nameFile": "جلسة 8",
           "urlFile": "https://drive.google.com/file/d/1b6wn-O_1J_2xIZeD3g7uRhXC5Y_qEsst/view?usp=drive_link",
           "countPage": 18,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة 9",
+          "nameFile": "جلسة 9",
           "urlFile": "https://drive.google.com/file/d/11HV1Ki2ItmnqJdraI8O0Z7GtAA-A-VYS/view?usp=drive_link",
           "countPage": 19,
           "fileClass": "عملي"
         },
         {
-          "name": "جلسة 10-11",
+          "nameFile": "جلسة 10-11",
           "urlFile": "https://drive.google.com/file/d/1wP4VeJe1pVzaZCXDnJqe95Ay2UHfPbGl/view?usp=drive_link",
           "countPage": 14,
           "fileClass": "عملي"
@@ -450,19 +450,19 @@
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
-          "name": "ثقافة وحضارة ",
+          "nameFile": "ثقافة وحضارة ",
           "urlFile": "https://drive.google.com/file/d/1_qhi8aqJduiv8j0KAUnOzfPhDAnQDB_e/view?usp=drive_link",
           "countPage": 90,
           "fileClass": "نظري "
         },
         {
-          "name": "ملخص ثقافة وحضارة 1",
+          "nameFile": "ملخص ثقافة وحضارة 1",
           "urlFile": "https://drive.google.com/file/d/1IH3v8C1SoNexSlDoVKX4YmVotALhLr_-/view?usp=drive_link",
           "countPage": 12,
           "fileClass": "ملخص"
         } ,
         {
-          "name": "ملخص ثقافة وحضارة 2",
+          "nameFile": "ملخص ثقافة وحضارة 2",
           "urlFile": "https://drive.google.com/file/d/1IH3v8C1SoNexSlDoVKX4YmVotALhLr_-/view?usp=drive_link",
           "countPage": 12,
           "fileClass": "ملخص"
@@ -495,31 +495,31 @@
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
-          "name": "مقرر الدارات",
+          "nameFile": "مقرر الدارات",
           "urlFile": "https://drive.google.com/file/d/197GlIlGpb_BrHMBCWge2RRzEGmlOVwI3/view?usp=drive_link",
           "countPage": 83,
           "fileClass": "  نظري "
         },
         {
-          "name": "ورقة عمل ",
+          "nameFile": "ورقة عمل ",
           "urlFile": "https://drive.google.com/file/d/1jJa7fJ-1F2JsXxr-lj4RGg1htcmDWGgx/view?usp=drive_link",
           "countPage": 1,
           "fileClass": "عملي"
         },
         {
-          "name": "تجربة قانون كيرشوف الأول + الثاني",
+          "nameFile": "تجربة قانون كيرشوف الأول + الثاني",
           "urlFile": "https://drive.google.com/file/d/1oTbx9Vb28M4k3FMKroGa7ksnLUN4TSB9/view?usp=drive_link",
           "countPage": 3,
           "fileClass": "عملي"
         },
         {
-          "name": "التجربة الثانية _ وقانون أوم",
+          "nameFile": "التجربة الثانية _ وقانون أوم",
           "urlFile": "https://drive.google.com/file/d/1DZzDewI2FEWE8l7ldQuTCiUYk7ho3yJJ/view?usp=drive_link",
           "countPage": 3,
           "fileClass": "عملي"
         },
         {
-          "name": " ادوات الدارات  ",
+          "nameFile": " ادوات الدارات  ",
           "urlFile": "https://drive.google.com/file/d/1dxtV-RgIJUps-k5FcFe4XmBWR4kxkI9P/view?usp=drive_link",
           "countPage": 3,
           "fileClass": "عملي"
@@ -551,7 +551,7 @@
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
-          "name": "احتمالات وااحصاء",
+          "nameFile": "احتمالات وااحصاء",
           "urlFile": "https://drive.google.com/file/d/1nVRxe-8TDat7sT_xAwxc2BP10xVQWbDZ/view?usp=drive_link",
           "countPage": 101,
           "fileClass": " نظري - عملي"
@@ -559,18 +559,18 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlToll": "https://github.com/"
         }
       ],
       "references": [
         {
-          "name": "file 1",
+          "nameFile": "file 1",
           "urlFile": "https://github.com/",
           "countPage": 22
         },
         {
-          "name": "file 2",
+          "nameFile": "file 2",
           "urlFile": "https://github.com/",
           "countPage": 22
         }
@@ -583,14 +583,14 @@
       "navBar": ["references", "courses", "tools"],
       "courses": [
         {
-          "name": "مقرر",
+          "nameFile": "مقرر",
           "urlFile": "https://drive.google.com/file/d/1HrAvWOeh_w3HpQ6h2Lh-sU7_GmDC2ZCr/view?usp=drive_link",
           "countPage": 60,
           "fileClass": " نظري "
         },
       
         {
-          "name": " دورات",
+          "nameFile": " دورات",
           "urlFile": "https://drive.google.com/file/d/1P-LXb3lJutr27Gw1CXNLboPsYYKUMulY/view?usp=drive_link",
           "countPage": 14,
           "fileClass": "عملي"
