@@ -303,7 +303,6 @@
           "countPage": 22,
           "fileClass": "نظري "
         }
-
       ],
       "tools": [
         {
@@ -326,7 +325,7 @@
     },
     {
       "id": 2,
-      "nameAr": " 2تحليل",
+      "nameAr": " 2 تحليل",
       "nameEn": "analyses 2",
       "navBar": ["references", "courses", "tools"],
       "courses": [
@@ -379,8 +378,7 @@
           "urlFile": "https://drive.google.com/file/d/1cXYm-I9J_7SuKf7fveq53-7Aquuo0S5x/view?usp=drive_link",
           "countPage": 8,
           "fileClass": "عملي"
-        } 
-        ,
+        },
         {
           "nameFile": "جلسة 4",
           "urlFile": "https://drive.google.com/file/d/1342_N5jwtygZkX7EKLgU4cPnPeZjN_e9/view?usp=drive_link",
@@ -417,7 +415,6 @@
           "countPage": 14,
           "fileClass": "عملي"
         }
-        
       ],
       "tools": [
         {
@@ -444,7 +441,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "nameAr": "ثقافة وحضارة",
       "nameEn": "culture",
       "navBar": ["references", "courses", "tools"],
@@ -460,14 +457,13 @@
           "urlFile": "https://drive.google.com/file/d/1IH3v8C1SoNexSlDoVKX4YmVotALhLr_-/view?usp=drive_link",
           "countPage": 12,
           "fileClass": "ملخص"
-        } ,
+        },
         {
           "nameFile": "ملخص ثقافة وحضارة 2",
           "urlFile": "https://drive.google.com/file/d/1IH3v8C1SoNexSlDoVKX4YmVotALhLr_-/view?usp=drive_link",
           "countPage": 12,
           "fileClass": "ملخص"
         }
-
       ],
       "tools": [
         {
@@ -489,7 +485,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "nameAr": "دارات كهربائية",
       "nameEn": "Electrical-circuits",
       "navBar": ["references", "courses", "tools"],
@@ -545,7 +541,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "nameAr": "احتمالات وااحصاء",
       "nameEn": "statices",
       "navBar": ["references", "courses", "tools"],
@@ -577,7 +573,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 7,
       "nameAr": "لغة انجليزي 2",
       "nameEn": "analyses",
       "navBar": ["references", "courses", "tools"],
@@ -588,7 +584,7 @@
           "countPage": 60,
           "fileClass": " نظري "
         },
-      
+
         {
           "nameFile": " دورات",
           "urlFile": "https://drive.google.com/file/d/1P-LXb3lJutr27Gw1CXNLboPsYYKUMulY/view?usp=drive_link",
@@ -615,7 +611,6 @@
         }
       ]
     }
-    
   ],
   "tests": []
 }
