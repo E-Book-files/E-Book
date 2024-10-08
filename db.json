@@ -239,10 +239,10 @@
         "navBar": ["references", "courses", "tools"],
         "courses": [
           {
-            "nameFile": "الجلسة الاولى",
-            "urlFile": "https://drive.google.com/file/d/1IO5E-O7TUYc3GAC9octPhyMNvW-FFp2k/view?usp=drive_link",
-            "countPage": 22,
-            "fileClass": "عملي"
+               "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1IO5E-O7TUYc3GAC9octPhyMNvW-FFp2k/view?usp=drive_link",
+          "countPage": 14,
+          "fileClass": "عملي"
           },
           {
             "nameFile": "الجلسة الثانية",
@@ -427,17 +427,17 @@
           {
             "name": "Html",
             "urlFile": "https://youtu.be/6QAELgirvjs?si=LHG8dGIgWcIavy5Q",
-            "videos": 37
+            "countPage": 37
           },
           {
             "name": "CSS Course",
             "urlFile": "https://youtu.be/X1ulCwyhCVM?si=_uzGlPBFRkHJUJB9",
-            "videos": 88
+            "countPage": 88
           },
           {
             "name": "JAVA SCRIPT Course",
             "urlFile": "https://youtu.be/GM6dQBmc-Xg?si=KtKDqBifA94Mctan",
-            "videos": 188
+            "countPage": 188
           }
         ]
       },
