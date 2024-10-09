@@ -233,7 +233,7 @@
 
   "term-two": [
     {
-      "id": 1,
+      "id": 8,
       "nameAr": "2 برمجة",
       "nameEn": "Programming2",
       "navBar": ["references", "courses", "tools"],
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 9,
       "nameAr": "2 تحليل",
       "nameEn": "analyses 2",
       "navBar": ["references", "courses", "tools"],
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 10,
       "nameAr": "برمجة ويب 1",
       "nameEn": "web programming 1",
       "navBar": ["references", "courses", "tools"],
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 11,
       "nameAr": "ثقافة وحضارة",
       "nameEn": "culture",
       "navBar": ["references", "courses", "tools"],
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 12,
       "nameAr": "دارات كهربائية",
       "nameEn": "Electrical-circuits",
       "navBar": ["references", "courses", "tools"],
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 13,
       "nameAr": "احتمالات وااحصاء",
       "nameEn": "statistics",
       "navBar": ["references", "courses", "tools"],
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 14,
       "nameAr": "لغة انجليزي 2",
       "nameEn": "English 2",
       "navBar": ["references", "courses", "tools"],
