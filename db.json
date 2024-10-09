@@ -93,22 +93,22 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlToll": "https://github.com/"
         },
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlToll": "https://github.com/"
         }
       ],
       "references": [
         {
-          "name": "file 1",
+          "nameFile": "file 1",
           "urlFile": "https://github.com/",
           "countPage": 22
         },
         {
-          "name": "file 2",
+          "nnameFileame": "file 2",
           "urlFile": "https://github.com/",
           "countPage": 22
         }
@@ -127,7 +127,7 @@
           "fileClass": "نظري"
         },
         {
-          "nameFile": "Summary",
+          "nameFile": "part 2",
           "urlFile": "https://drive.google.com/file/d/1_xhzH6z7yBt4WXMt0wtsyoP0ODX_nEb2/view?usp=drive_link",
           "countPage": 13,
           "fileClass": "نظري"
@@ -201,7 +201,7 @@
           "fileClass": "نظري"
         }
       ],
-      "CQ": [
+      "references": [
         {
           "nameFile": "Part 1",
           "urlFile": "https://drive.google.com/file/d/1Drmd84DvBzAYILUX25s39y6gemen_GEF/view?usp=drive_link",
@@ -230,7 +230,6 @@
       ]
     }
   ],
-
   "term-two": [
     {
       "id": 1,
@@ -307,18 +306,18 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlTool": "https://github.com/"
         }
       ],
       "references": [
         {
-          "name": "file 1",
+          "nameFile": "file 1",
           "urlFile": "https://github.com/",
           "countPage": 22
         },
         {
-          "name": "file 2",
+          "nameFile": "file 2",
           "urlFile": "https://github.com/",
           "countPage": 22
         }
@@ -425,17 +424,17 @@
       ],
       "references": [
         {
-          "name": "Html",
+          "nameFile": "Html",
           "urlFile": "https://youtu.be/6QAELgirvjs?si=LHG8dGIgWcIavy5Q",
           "countPage": 37
         },
         {
-          "name": "CSS Course",
+          "nameFile": "CSS Course",
           "urlFile": "https://youtu.be/X1ulCwyhCVM?si=_uzGlPBFRkHJUJB9",
           "countPage": 88
         },
         {
-          "name": "JAVA SCRIPT Course",
+          "nameFile": "JAVA SCRIPT Course",
           "urlFile": "https://youtu.be/GM6dQBmc-Xg?si=KtKDqBifA94Mctan",
           "countPage": 188
         }
@@ -468,18 +467,18 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlTool": "https://github.com/"
         }
       ],
       "references": [
         {
-          "name": "file 1",
+          "nameFile": "file 1",
           "urlFile": "https://github.com/",
           "countPage": 22
         },
         {
-          "name": "file 2",
+          "nameFile": "file 2",
           "urlFile": "https://github.com/",
           "countPage": 22
         }
@@ -524,18 +523,18 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlTool": "https://github.com/"
         }
       ],
       "references": [
         {
-          "name": "file 1",
+          "nameFile": "file 1",
           "urlFile": "https://github.com/",
           "countPage": 22
         },
         {
-          "name": "file 2",
+          "nameFile": "file 2",
           "urlFile": "https://github.com/",
           "countPage": 22
         }
@@ -556,7 +555,7 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlTool": "https://github.com/"
         }
       ],
@@ -594,18 +593,18 @@
       ],
       "tools": [
         {
-          "name": "w3ch",
+          "nameFile": "w3ch",
           "urlTool": "https://github.com/"
         }
       ],
       "references": [
         {
-          "name": "file 1",
+          "nameFile": "file 1",
           "urlFile": "https://github.com/",
           "countPage": 22
         },
         {
-          "name": "file 2",
+          "nameFile": "file 2",
           "urlFile": "https://github.com/",
           "countPage": 22
         }
