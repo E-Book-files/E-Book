@@ -325,7 +325,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 2,
       "nameAr": "2 تحليل",
       "nameEn": "analyses 2",
       "navBar": ["references", "courses", "tools"],
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 3,
       "nameAr": "برمجة ويب 1",
       "nameEn": "web programming 1",
       "navBar": ["references", "courses", "tools"],
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 4,
       "nameAr": "ثقافة وحضارة",
       "nameEn": "culture",
       "navBar": ["references", "courses", "tools"],
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 5,
       "nameAr": "دارات كهربائية",
       "nameEn": "Electrical-circuits",
       "navBar": ["references", "courses", "tools"],
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 6,
       "nameAr": "احتمالات وااحصاء",
       "nameEn": "statistics",
       "navBar": ["references", "courses", "tools"],
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 7,
       "nameAr": "لغة انجليزي 2",
       "nameEn": "English 2",
       "navBar": ["references", "courses", "tools"],
